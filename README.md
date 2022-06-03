@@ -1,6 +1,6 @@
 # Logic-gates
-This project 
-
+Logic gates simulator
+Our team members: Karabekov Nurak,Bakbergern Beishenaliev,Chyngyz Utkelbaev.
 ![Снимок экрана (2)](https://user-images.githubusercontent.com/76212719/171832158-59065a26-7c02-4f7f-a2fb-00e41d2a4a4b.png)
 
 ![Снимок экрана (1)](https://user-images.githubusercontent.com/76212719/171832145-1d8dba10-e253-45b2-b0a5-313c5cb3799b.png)
